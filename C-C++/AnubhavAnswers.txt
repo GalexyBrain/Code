@@ -1,0 +1,109 @@
+//program to find the sum,mean and standard deviation using pointers 
+#include <stdio.h>
+#include <math.h>
+
+int main(){
+    float sum = 0, stdDeviation = 0, mean = 0, *ptr;
+    int n;
+
+    printf("Enter the number of terms : ");
+    scanf("%d",&n);
+
+    float arr[n];
+    ptr = arr;
+    printf("Enter the numbers to the array : ");
+    for (int i = 0; i < n; i++){
+        scanf("%f",&arr[i]);
+        sum += *ptr;
+        ptr++;
+    }
+
+    mean = sum / n;
+
+    ptr = arr;
+    for (int i = 0; i < n; i++,ptr++){
+        stdDeviation += pow((*ptr - mean),2);
+    }
+    stdDeviation = pow(stdDeviation / n, 0.5);
+
+    printf("\nSum : %f",sum);
+    printf("\nMean : %f",mean);
+    printf("\nStanduard Deviation :%f",stdDeviation);
+    return 0;
+}
+
+//program to print the ASCII value of the name
+#include <stdio.h>
+int main(){
+    char name[25];
+    printf("Enter name: ");
+    scanf("%s",name);
+    for(int i=0; name[i] != '\0'; i++)
+        printf("\n%d",name[i]);
+}
+
+
+//program to reverse a string
+#include <stdio.h>
+
+int main(){
+    char str[25], rev[25];
+
+    printf("Enter a string : ");
+    scanf("%s",str);
+
+    int len;
+    for (len = 0; str[len] != '\0';len++);
+
+    for (int i = len; i >= 0; i--){
+        rev[i] = str[len - i - 1];
+    }
+    rev[len] = '\0';
+
+    printf("Reverse of the string '%s' is '%s'",str,rev);
+    return 0;
+}
+
+
+//program to check if the string is a palendrome of not
+#include <stdio.h>
+void main(){
+    char str[100];
+    int i = 0, cmp = 1;
+    printf("Enter the string : ");
+    scanf("%s", str);
+    for (i = 0; str[i + 1] != '\0'; i++);
+    for (int j = 0;i >= j; i--, j++){
+        if (str[i] != str[j]){
+            cmp--;
+            break;
+        }
+    }
+    if (cmp)
+        printf("Palendrome");
+    else 
+        printf("Not palendrome");
+}
+
+
+//program to copy contents of one file into another
+#include <stdio.h>
+int main(){
+    char file1[100], file2[100],c;
+
+    printf("Enter filename for reading : ");
+    scanf("%s", file1);
+
+    printf("Enter filename for writing : ");
+    scanf("%s", file2);
+
+    FILE *f = fopen(file1, "r"), *f1 = fopen(file2, "w");
+
+    while(fscanf(f, "%c", &c) != EOF){
+        fprintf(f1, "%c", c);
+    }
+
+    fclose(f);
+    fclose(f1);
+    return 0;
+}
