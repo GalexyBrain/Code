@@ -1,0 +1,33 @@
+if statement
+1.Checking if a number is positive or negative
+2.Determining if a character is a vowel or consonant
+3.Determining if a student's score is passing or failing and displaying corresponding messages.
+
+else if ladder
+1.Implementing a grading system with multiple conditions (e.g., A, B, C, D, F) based on the score obtained.
+2.Categorizing different age groups (e.g., child, teenager, adult, senior) based on a person's age.
+3.Determining the type of a shape (e.g., square, rectangle, triangle, circle) based on the number of sides.
+
+switch statement
+1.Identifying the day of the week based on a numeric value (e.g., 1 for Sunday, 2 for Monday, etc.).
+2.Implementing a menu-based program where users can choose different options.
+3.Add,subtract,multipy,divide two numbers
+
+while loop
+1.Reading and processing a list of numbers until a specific condition is met (e.g., summing all positive numbers).
+2.Implementing a game loop to continuously update and display game elements until the game is over.
+3.Repeatedly prompting a user for input until a valid response is received.
+4.Printing a sequence of numbers based on a specific pattern until a certain limit is reached (e.g., Fibonacci series).
+
+for loop
+1.Printing numbers from 1 to 10 in sequence.
+2.Calculating the factorial of a given number.
+3.Iterating through an array and performing an operation on each element.
+4.Generating a multiplication table for a specific number
+
+functions
+1.Adding two numbers and returning the result.
+2.Finding the maximum value among three given numbers and returning it.
+3.Calculating the area of a rectangle given its length and width as parameters and returning the area value
+4.Displaying a message or result on the screen without returning any value.
+5.Printing a pattern or series of characters without returning any value.
