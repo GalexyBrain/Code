@@ -1,4 +1,4 @@
 **/venv/
 **/venv/**/*.so
-/BashScripts/gitHubPush.sh
+BashScripts/gitHubPush.sh
 
