@@ -1,0 +1,98 @@
+Team ID / Number,Team Name,Domain,Problem Statement,Team lead name,Name of Participant 1,Name of Participant 2,Name of Participant 3
+103,Web matrix,AI/ML,"With LLMs enabling hyper-realistic phishing, old-school defenses are falling apart. Our project builds smart shields to detect and deflect AI-crafted deception",Nisarga N,Nisarga N,Veda J,
+104,Void,Education,"In today’s digital learning world, students are overwhelmed with resources but lack a clear, personalized path to follow. Everyone learns differently — some aim for interviews, some for college projects, others out of curiosity. Yet, most platforms deliver a one-size-fits-all experience, making it hard for learners to stay focused, track progress, or find what truly works for them.
+
+We are building a personalized learning platform that tailors custom roadmaps for each learner based on their goals, background, and availability. By asking a few simple questions, we guide users with structured, step-by-step paths designed to match their pace and purpose.
+
+To take it further, we’re integrating an AI-powered roadmap generator that leverages web search and GPT to suggest the most up-to-date learning paths. In addition, our proctored test environment ensures learners stay on track with serious, tab-monitored assessments that reinforce their learning.
+
+Our mission is to make learning smarter, goal-driven, and personalized — because every learner deserves a plan that’s made just for them.",Tejas Kumar D,Ullas CL,Vrishank bhargav,Sujan B
+105,CODEGEN,Agriculture,"Agriculture
+Crop and soil management System: Farmers face several challenges related to
+crop selection, soil management, disease identification and other factors, which
+can impact agricultural productivity and sustainability. To address these
+challenges, we need an application to help farmers for full fledged farming.",PREKSHA K V,PRERITA H G,,
+106,Stocknicians,FinTech,"Beginners lack a safe and realistic platform to learn stock trading. This app simulates the stock market to help users practice and build financial skills without real money risk.",Ananya R,Bhuvana S,Bhoomika KR,None
+107,Data Drifters,AI/ML,"Create an AI system that uses computer vision to rapidly identify and classify waste items, then provides clear, step-by-step instructions to transform each waste type into valuable by products and calculate environmental impact",Likith H R,RAMA REDDY M J,Krishna Kaushik,Yashwanth S
+108,Jssate hackers,Healthcare,"Medical insurance fraud detection",Varsha M,Srinidhi R K,Tejaswini Y N,
+109,The Nanosecond Ninjas,FinTech,"Fin Tech Track:
+
+Problem Statement -
+
+Many taxpayers overpay their taxes due to a lack of awareness of all eligible deductions, credits, and tax-saving strategies. The current tax system's complexity makes it difficult for individuals and small businesses to proactively identify and leverage these opportunities. Therefore, there is a need for an automated tool that not only simplifies tax filing but also intelligently analyzes financial data to identify and recommend personalized tax optimization strategies, ultimately maximizing tax savings.",SRUJAN P R,SHASHANK V WALI,SHASHAANK K,TANUSH A K
+110,JSSATE Coders,Healthcare,"Virtual Heath Assistant",Spoorthi S,Vedavathi S,Varsha G S,
+111,BrainVita,AI/ML,"AI Based Online Mock Interviewer For Preparation Purpose",Spandana AM,Sujay V,Praneeth G Hegde,Archana R
+112,Hacktivate,Cybersecurity,"A secure, user-authenticated file management system that encrypts files before upload, offers controlled read-only access, and ensures data privacy using Supabase’s Row-Level Security.",Shivakumar R Bhandari,Sahana B S,Syed Umarsha Khadri,Rakshitha S D
+113,Elevate,Education,"Students with adhd have problem concentrating on studies and the lack of resources or platforms for them are low to none.",Nidhi Mahesh,Inchara. P,Ashitha S Patil,Kavin Krishnan C
+114,Smart Farm,Agriculture,"Developing a web tool that compares current prices for crops at various local markets and provides suggestions on where farmers should sell their produce for the best price",Prajna R Aithal,Manjula Vani K,Prathvi,Ashish T
+115,Hacksmith,Healthcare,"Smart Pill Dispenser with AI Reminders",Shriya S,Sakshi Shetty,Jyothi M,Srishyla Kumar TP
+117,The Pair-o-dox,Sustainability,"Food Waste Reduction Platform",Ramya Ganesh Shastri,Sudarshan T K,,
+118,COOKIE_BYTE,FinTech,"A platform that aims to revolutionize personal finance by integrating AI-driven tools with key functionalities that include intelligent budgeting, expense tracking in real-time ,portfolio optimization and customized financial goal setting.",S L SUMALATHA,PL.VISALAKSHI,NAVYA K,
+119,TESSERACT,Agriculture,"Farmers often struggle with early detection of plant diseases and choosing the right crops for their environment, leading to poor yield and losses. Our project aims to solve this by providing an AI-powered web platform for instant disease detection and usage-based access through a seamless payment system.",Tarun,Shashank Naik,Rohan Naik,Dheeraj Naik
+120,The Code Warriors,Healthcare,Healthcare,Sanketh S,Varun S,Shreyas Sangalad,Shashank D S
+122,Bond Beyond,Metaverse,"The 2D Metaverse Co-Space addresses the limitations of traditional remote collaboration tools by creating a virtual environment that mimics real-world interaction. Users can choose avatars, explore a 2D map, and engage with interactive objects like whiteboards and computers. The platform supports proximity-based video/audio calls and a global chat for seamless communication. Designed for schools and workplaces, it encourages spontaneous interaction and immersive collaboration. This project offers a creative, browser-based solution to bring people together in a shared digital space, enhancing engagement and productivity in remote or hybrid settings through a fun, interactive, and spatially-aware virtual experience.",Pritam Mishra,Piyush Kumar Mishra,,
+123,IDLY LAKE,Open Innovation,Open Innovation,Mahi Singh,Mayank Dhaundiyal,Dev Lohani,Kartavya Verma
+124,CompileCraft,Full-Stack Development,"Streamline Full-Stack App Development with AI-Powered Automation",Abhishek Kumar Choudhary,Aditya Kumar,M Pranav,Ayush Kumar
+125,Defenders,Healthcare,"Help users remember to take their medicines on time by providing notifications based on user-defined schedules.",Deepak Hegde,Bhuvan C,B Rakesh,Harshavardhan G N
+126,Zapak,Health Care,Health Care,Hruthwik M,Pooja,Nagaveni G S,Prajwal T P
+127,4 Horsemen,Education,"Increased smartphone usage among children has led to concerns about reduced physical activity, limited creativity, and shorter attention spans. Most digital content today keeps children passively engaged without meaningful learning. There is a need for an engaging, educational, and fun alternative that encourages kids to disconnect from screens and participate in real-world activities. This project proposes a child-friendly AI-powered application that promotes creativity, storytelling, offline games, and learning activities. The goal is to reduce screen dependency while enhancing cognitive and emotional development in early childhood.",Avinash D R,Tharun Kumar V,Vijay M R,Deekshith S
+128,Team Alpha,General,"Issuing of goodies",Vaibhavi S,Rishmitha K B,Yuvaraj C,Saniya Fatima
+128,Team Alpha,General,"Issuing of goodies",Vaibhavi S,Rishmitha K B,Yuvaraj C,Saniya Fatima
+129,SheCodHers,AI/ML,"NaamCheck AI: Smarter, Accurate Identity Matching for Policing
+
+Law enforcement faces challenges in identifying individuals due to inconsistent name spellings, aliases, and fake identities, leading to missed matches and mistaken identities.",Ruchita,Samreen H,Archana B Y,Nayana A
+130,AgroGenix,Agriculture,"Small & marginal farmers often:
+Don’t know which crop/variant is best for their soil/weather.
+Use excessive fertilizer/pesticide, harming yield & environment.
+Can’t track or predict market demand or price drops.
+Don’t receive personalized advice — it’s all generic",Soujanya V,Soujanya V,Charitha KR,Deeksha B
+131,CodeStrom,AI/ML,"Problem Statement:
+Most cars travel with empty seats, causing traffic and pollution. There's no smart, easy way for people to find reliable carpool partners. Our solution uses AI to connect nearby users with similar routes and preferences through a simple, chat-based interface.",SS Karan,Adithyan Prakash,Prisha Tufchi,Jaithran V
+132,Neuronauts,Healthcare,"We’re building a real-time health monitoring system that classifies patients into “High Risk” or “Low Risk” categories based on vital signs like heart rate, oxygen saturation, blood pressure, HRV, and more.
+
+This system could be used in hospitals, ambulances, or wearable devices to alert doctors about critical patients before symptoms become visible",N SHIVAMANOHARA REDDY,Architha B C,Rahul S Tawarakhed,Monisha
+133,HAT SQUAD,Agriculture,"Today’s young farmers face a growing crisis despite access to technology, they lack real-time data on soil health, face erratic weather, volatile markets, and limited local support. These challenges threaten their productivity, profits, and future. Without a smart, user-friendly app offering localized insights, community support, and language accessibility, making sure the next generation of agriculture isn't at risk.",Abhishek Rao K,Tejas H J,Havyas M P,Riya S
+134,Code Trinity,IOT,"IOT enabled plant disease analysis system",Yashwanth H R,Kushal S J,Kushal Gowda J,Kirana B J
+135,Tempest,Sustainability,"Managing plant care is a challenging and time-consuming task, especially for plant owners with multiple plants that have different care needs.
+
+While plant ownership has grown in popularity, many plant owners struggle to provide the right care for each plant, which can lead to overwatering, under-watering, incorrect sunlight exposure, and a lack of consistency in overall plant health. Existing plant care apps often fail to meet the diverse needs of plant owners, as they lack personalized care schedules, growth tracking, light measurement, or a collaborative approach to managing plants. Furthermore, there is no easy way for plant owners to track observations, share care responsibilities, or integrate their plant care with the daily routines that already demand their time.",Karanam Krishna Bhuvan,Karanam Krishna Bhuvan,K S Sumukha,Pandari
+136,Newbies,Healthcare,"doctor appointment system ,bed allotment and",Karan,Bhakti B Alappanavar,Vaibhavi Suresh Koparde,
+137,NullPoint,AI/ML,"Machine learning,data analytics",Vishwas Gowda,Vishwaj Parthav,Apeksh,Karthik s n
+138,Code warriors,Education,"Student management system",Manoj S,Bhanu Prakash J M,Bheemaprasad M P,Nithin H R
+139,Pixel pirates,Agriculture,"Farmers often lack access to real-time information, market prices, expert advice, and government schemes, leading to low productivity and income. A digital platform (app and website) is needed to connect them with resources, buyers, and experts to improve agricultural outcomes.",Nisarga J,Parvathamma N,Preethi M N,Pallavi A R
+140,CodeCrafters,Education,"Students often struggle to revise effectively due to a lack of interactive and personalized study material. Manually creating quizzes from handwritten or digital notes is time-consuming and unengaging, leading to inefficient revision practices. There is a need for a tool that can automatically generate custom quizzes to enhance retention and active recall during learning.",Gowri M,Aishwarya B,Nisarga M Swamy,Nil
+141,MenoMinds,Healthcare,"Many women struggle to manage their menstrual health due to the lack of all-in-one digital tools. Most existing apps focus only on period tracking or generic advice, ignoring crucial aspects like pain relief, mood patterns, and personalized care. This fragmented experience leaves users without the insights and support they need to truly understand and manage their health.",Bharath HS,Gagan M,Shiva Kumar NR,Prajwal BN
+142,codeMIND,Healthcare,"Develop a secure, decentralized healthcare platform to overcome the challenges of centralized systems, enabling full patient control, enhanced data security, and seamless interoperability.",Likith gowda A,Suhas M,Yeshwanth LV,Sanjay V
+143,Bit wizards,Healthcare,"Medical innovation
+A responsive hospital website design",Deepith Jain SB,Deepith Jain SB,M mohammed nawaz,
+144,DevDare,Fintech,"Fintech,automation",Srisha Urala,Tarun N,Kumar abhishek ojha,
+145,Vector Coders,AI/ML,"Develop an effective occlusion handling system to detect and track objects accurately despite partial or full obstructions in dynamic environments.",Prajwal CA,Prajwal CA,Vishnu B,
+146,Tech Titans,Education,"Educational institutions continuously sick effective ways to monitor and improve student academic performance however identifying students who may be at risk of poor academic outcomes on remains a challenge due to the involvement of multiple factors like study habits class participation attendance and socio demographic data",Shreya H M,Shreya K S,Shrunga S K,Sinchana N D
+147,Papz,Healthcare,"Healthcare institutions often face significant challenges in managing and safeguarding sensitive patient records, diagnostic reports and medical histories. Existing systems typically rely on centralized databases, making thes vulnerable to datas breaches, unauthorized access and accidental loss. Additionally, manual processes for document verification, inter hospital data sharing and patient consent management are inefficient, prone to errors and lack transparency",Sameer S Katte,Sai Shravan V,Chhavi Sharma,Samrdhe
+148,Visionaries United,Agriculture,"Agriculture:
+Innovative Farming Solutions",Ajay Kumar Rauniyar,Drishti Gurnani,Bhumi Jain,Shaik Pervez
+149,Nah, I'd Win,FinTech,"UPI payments in India rely on QR code scanning, creating inconvenience in crowded areas and poor lighting conditions. A more accessible alternative is needed to enhance user experience and improve transaction success rates.",Areeb Ahmed,Shivansh Karan,Rishi Chirchi,Hemamalini S
+150,"MBDY SYNDICATE",AI/ML,"AI driven advance drone technology.",Yashas D,Dhanushree H J,Bhanupriya,Mahesh babu
+151,Deadlock,Cybersecurity,"Crisis Management system using RAG and Blockchain",Sathwik Shetty,Siddharth R,Ritvik K,Khushbu R
+152,"Algorithm Avengers",Healthcare,"Healthcare
+Build solutions that improve healthcare access, diagnosis, treatment, and patient monitoring.",Himanshu Kumar Singh,Shaik Sumear,Arya Kumari,Shibham Kumar Jha
+153,CosmicCoders,Education,"Solving the challenge of providing practical knowledge effectively through online education",Archit Mahajan,Harash Sangral,Monal,Goldi
+154,"Agronym Solutions",Agriculture,"Agriculture faces numerous challenges, including inefficient water management, labor-intensive farming practices, weed control issues, and limited access to precision farming technology. These inefficiencies lead to high operational costs, resource wastage, and reduced crop yields. Additionally, farmers in remote areas struggle with limited connectivity and automation, making modern agricultural advancements difficult to implement.
+",Akshay K,Eshan H,Manish Vijay,
+155,InnovateX,AI/ML,"In today’s competitive job market, candidates often struggle to prepare effectively for interviews due to limited access to personalized feedback on their communication skills, body language, and responses. Traditional interview preparation lacks real-time, objective analysis, making it difficult for individuals to identify and improve their weaknesses. There is a need for a smart, accessible, and interactive system that can simulate real interviews and provide instant, actionable feedback to help users improve holistically.",Mohammadsami Sayyad,Vandana Patil,,
+156,Terminator's,Education,"Despite progress in expanding educational access in India,students in rural areas continue to face major challenges in receiving quality, personalized, and engaging learning experiences.
+Key issues include:
+
+Lack of quality teachers and learning resources in remote villages.
+
+Limited internet access, making it hard for rural students to benefit from online education.
+
+Language barriers and non-contextual content that don't align with the local environment and students' needs.
+
+Low student motivation and engagement, leading to high dropout rates.
+
+One-size-fits-all teaching methods, ignoring the varied learning speeds and styles of individual students.
+",Hithashree KS,Sanjay SR,Surendar Kumar H P,Sanvi CV
+157,"Team Outsourcing",Education,"Education for everyone",Vishwas R,Ravish B R,Vikas K,Sathya Swaroop M S
+158,Team Reaver,Healthcare,"Blood banks struggle to manage inventory efficiently and customers lack an easy way to check blood availability.
+Our platform solves this by providing a backend system for inventory management and a mobile app for real-time blood search",Vighnesh V G,Vivek G Vasishta,Sudhanva J Rao,Vikas G

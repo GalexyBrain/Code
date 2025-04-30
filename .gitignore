@@ -1,4 +1,9 @@
 **/venv/
 **/venv/**/*.so
 **/BashScripts/gitHubPush.sh
-
+**/generated_images
+**/generated_pdfs
+**/participation_certificate
+**/Vol_Cert
+**/dataset
+*.zip
